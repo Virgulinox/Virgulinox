@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  <img align="center" width="148" height="180" src="https://c.tenor.com/wfX0l5GwL28AAAAC/trigun-vash.gif">
+  <img align="center" width="200" height="180" src="https://c.tenor.com/wfX0l5GwL28AAAAC/trigun-vash.gif">
 </div>
  <br>
 <div  align="center"> 

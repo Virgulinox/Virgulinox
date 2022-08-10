@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-  <img align="center" width="148" height="180" src="[https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613](https://tenor.com/search/ichigo-kurosaki-gifs)">
+  <img align="center" width="148" height="180" src="https://tenor.com/view/anime-bleach-the-kon-ichigo-gif-11383360">
 </div>
  <br>
 <div  align="center"> 

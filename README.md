@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel
 - 👀 I’m interested in learn more regarding this incredible world of programming 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently applying Java for Embraer, Sonda and correlated companys supporting a legacy application
 - 💞️ I’m looking to collaborate on open sources projects
 - Nickname Virgulinox - my father gave me this nick 
 
